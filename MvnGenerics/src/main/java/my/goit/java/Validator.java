@@ -1,4 +1,4 @@
-package my.goit.java.collections;
+package my.goit.java;
 
 public interface Validator<E> {
     boolean isValid(E result);

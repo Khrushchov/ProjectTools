@@ -1,4 +1,4 @@
-package my.goit.java.collections;
+package my.goit.java;
 
 public class IntegerTask implements Task<Integer> {
     private Integer value;

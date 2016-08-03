@@ -24,7 +24,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>my.goit.java.collections.Bootstrap</mainClass>
+                            <mainClass>my.goit.java.Bootstrap</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

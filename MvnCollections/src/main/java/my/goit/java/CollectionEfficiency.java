@@ -1,4 +1,4 @@
-package my.goit.java.collections;
+package my.goit.java;
 
 import java.io.File;
 import java.io.FileWriter;
