@@ -5,27 +5,27 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>my.goit.java</groupId>
-    <artifactId>mvn-collections</artifactId>
+    <artifactId>mvn-squaresum</artifactId>
     <version>1.0</version>
+
     <build>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
-                <version>2.3.2</version>
+                <version>3.1</version>
                 <configuration>
                     <source>1.8</source>
                     <target>1.8</target>
                 </configuration>
             </plugin>
-
             <plugin>
                 <artifactId>maven-jar-plugin</artifactId>
                 <version>2.3.2</version>
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>my.goit.java.CollectionEfficiency</mainClass>
+                            <mainClass>my.goit.java.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
